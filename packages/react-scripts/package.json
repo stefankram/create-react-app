@@ -1,5 +1,5 @@
 {
-  "name": "everlong-react-scripts",
+  "name": "@everlong/react-scripts",
   "version": "3.3.0",
   "description": "Everlong configuration and scripts for Create React App.",
   "repository": {
@@ -33,6 +33,7 @@
     "@typescript-eslint/eslint-plugin": "^2.10.0",
     "@typescript-eslint/parser": "^2.10.0",
     "babel-plugin-styled-components": "1.10.6",
+    "babel-plugin-styled-components-css-namespace": "1.0.0-rc3",
     "babel-eslint": "10.0.3",
     "babel-jest": "^24.9.0",
     "babel-loader": "8.0.6",
